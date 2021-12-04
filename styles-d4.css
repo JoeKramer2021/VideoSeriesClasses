@@ -1,0 +1,28 @@
+h1 {
+  /* google fonts*/
+  font-family: "Oswald", sans-serif;
+  text-align: center;
+  color: red;
+}
+p {
+  /* google fonts*/
+  font-family: "Fira Sans", sans-serif;
+  text-align: center;
+  color: red;
+}
+/* D4 Changing hyperlink styling */
+a {
+  color: seagreen;
+  text-decoration: none;
+}
+
+/* D4 PSEUDO SELECTORS to change HOVER STATE */
+a:hover {
+  text-decoration: underline;
+}
+
+#top_paragraph {
+  color: darkgreen;
+  font-weight: bold;
+  font-size: 25px;
+}
